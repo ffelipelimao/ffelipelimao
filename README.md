@@ -13,7 +13,5 @@
 
 ## Linkedin
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
 - **[Linkedin](https://www.linkedin.com/in/luiz-felipe-limao/)**
 - Copyright 2020 ©.
