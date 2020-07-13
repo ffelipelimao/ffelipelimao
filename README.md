@@ -6,15 +6,10 @@
 
 **Skills**
 
-- Java
-- Spring
-- Javascript
+- Java/Spring
 - Node.js
 - React.js
 - React Native
-- SQL
-- MongoDB
-- etc.
 
 ## Linkedin
 
