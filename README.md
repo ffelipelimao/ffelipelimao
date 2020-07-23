@@ -1,4 +1,3 @@
-<a href="http://fvcproductions.com"><img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*ZST8ftDYoG9RTrUbkdOCTQ.jpeg" title="FVCproductions" alt="FVCproductions"></a>
 
 # Luiz Felipe Gomes Limão
 
