@@ -5,7 +5,6 @@
 
 **Skills**
 
-- Java/Spring
 - Node.js
 - React.js
 - React Native
