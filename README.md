@@ -5,9 +5,12 @@
 
 **Skills**
 
+#### Javacript/Typescript
 - Node.js
 - React.js
 - React Native
+
+#### Go
 
 ## Linkedin
 
