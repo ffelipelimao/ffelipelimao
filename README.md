@@ -15,7 +15,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=ffelipelimao&theme=dark&show_icons=true)](https://github.com/ffelipelimao/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipelimao&layout=compact)](https://github.com/ffelipelimao/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipelimao)](https://github.com/ffelipelimao/)
 
 
 ## Linkedin
