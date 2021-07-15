@@ -6,12 +6,8 @@
 **Skills**
 
 #### Javacript/Typescript
-- Node.js
-- React.js
-- React Native
 
 #### Go
-- Golang(WIP)
 
 [![card](https://github-readme-stats.vercel.app/api?username=ffelipelimao&theme=dark&show_icons=true)](https://github.com/ffelipelimao/)
 
