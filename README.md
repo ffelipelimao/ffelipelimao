@@ -5,9 +5,10 @@
 
 **Skills**
 
-#### Javacript/Typescript
-
-#### Go
+##Typescript
+##Javacript
+##Java
+##Go
 
 [![card](https://github-readme-stats.vercel.app/api?username=ffelipelimao&theme=dark&show_icons=true)](https://github.com/ffelipelimao/)
 
