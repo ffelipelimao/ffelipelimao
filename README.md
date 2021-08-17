@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/gYWeVOiMmbg3kzCTq5/giphy.gif" # Luiz Felipe Gomes Limão
+<img src="https://media.giphy.com/media/gYWeVOiMmbg3kzCTq5/giphy.gif" width="50"> # Luiz Felipe Gomes Limão
 
 >Software Developer
 
