@@ -1,20 +1,8 @@
 
-<img src="https://media.giphy.com/media/mXig3LqjFyyvKvHtD2/giphy.gif"> 
+# Luiz Felipe Limão
 
-# Luiz Felipe Gomes Limão
+Software Engineer
 
->Software Developer
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-limao/)](https://www.linkedin.com/in/luiz-felipe-limao/)
 
-**Skills**
-- Typescript
-- Javacript
-- Java
-- Go
-
-[![card](https://github-readme-stats.vercel.app/api?username=ffelipelimao&theme=dark&show_icons=true)](https://github.com/ffelipelimao/)
-
-
-## Linkedin
-
-- **[Linkedin](https://www.linkedin.com/in/luiz-felipe-limao/)**
-- Copyright 2020 ©.
+A person who is always seeking new experiences and challenges to overcome, graduate in Computer Science, I'm always looking for a practical approach to my problems
